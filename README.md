@@ -54,6 +54,15 @@ The application enables users to interact with an intelligent AI agent capable o
 ```bash
 git clone https://github.com/yourusername/Personal-AI-Agent.git
 
+
+## 👨‍💻 Author
+
+Aman Sharma
+
+GitHub: https://github.com/Aman2907
+
+LinkedIn: https://linkedin.com/in/amansharma2907
+
 cd Personal-AI-Agent
 
 npm install
